@@ -10,9 +10,5 @@ https://drive.google.com/file/d/1yQp-oOJPjystLtKusePT8FqquXE5SzR0/view?usp=shari
 6.เข้าไปที่ไฟล์ CE341_ID0866 และใช้คำสั่ง ls เพื่อเช็คว่าไฟล์ทั้งหมดที่อยู่ใน repository นั้น ถูก clone มาหรือไม่
 7.หากเจอกไฟล์ทั้งหมด รวมถึง index.html แล้ว ให้ทำการ cat ไฟล์ index.html เพื่อให้มันแสดงโค้ดทั้งหมด
 โดยการใช้คำสั่ง cat index.html
-<<<<<<< HEAD
-8.หลังจากนั้น จะทำการแสดงโค้ดทั้งหมดที่เราได้เขียนไว้ 
-=======
 8.หลังจากนั้น จะทำการแสดงโค้ดทั้งหมดที่เราได้เขียนไว้ 
 https://drive.google.com/file/d/1hGRJQbmvmUdyi-zssa11Z_iPtwYd6Vrl/view?usp=sharing
->>>>>>> f9e180a5c389c884ebe680e1a89481df958193a3
