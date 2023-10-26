@@ -5,8 +5,10 @@
 - git โดยการใช้คำสั่ง sudo apt install git
 3.เมื่อติดตั้งเสร็จแล้ว ให้ใช้คำสั่ง git init เพื่อทำให้ directory รองรับ repository
 4.ทำการ clone ไฟล์ของ git ที่เราได้ทำการ sync ไว้ โดยการใช้คำสั่ง git clone https://github.com/Supakitt023/CE341_ID0866.git
+https://drive.google.com/file/d/1yQp-oOJPjystLtKusePT8FqquXE5SzR0/view?usp=sharing
 5.เมื่อขึ้นข้อความข้างต้น ให้ทำการเช็คไฟล์ โดยการใช้คำสั่ง ls 
 6.เข้าไปที่ไฟล์ CE341_ID0866 และใช้คำสั่ง ls เพื่อเช็คว่าไฟล์ทั้งหมดที่อยู่ใน repository นั้น ถูก clone มาหรือไม่
 7.หากเจอกไฟล์ทั้งหมด รวมถึง index.html แล้ว ให้ทำการ cat ไฟล์ index.html เพื่อให้มันแสดงโค้ดทั้งหมด
 โดยการใช้คำสั่ง cat index.html
 8.หลังจากนั้น จะทำการแสดงโค้ดทั้งหมดที่เราได้เขียนไว้ 
+https://drive.google.com/file/d/1hGRJQbmvmUdyi-zssa11Z_iPtwYd6Vrl/view?usp=sharing
